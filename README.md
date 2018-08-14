@@ -13,5 +13,4 @@ Git is a version control system for tracking changes in computer files and coord
 Adding this line to learn difference command.
 This line is to check new branch named updates
 
-
 I hope there is not much of a problem.
